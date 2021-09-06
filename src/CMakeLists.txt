@@ -1,0 +1,1 @@
+add_executable(vk-renderer win32_main.cpp)
